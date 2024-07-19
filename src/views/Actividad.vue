@@ -15,10 +15,10 @@ export default {
   components: { Actividad },
   data: () => ({
     cuestionario: {
-      tema: 'Manejo de los residuos sólidos en la producción avícola.',
+      tema: 'Conociendo las ETA',
       titulo: 'Cuestionario',
       introduccion:
-        'Lea cada enunciado y luego seleccione la respuesta correcta según corresponda.',
+        'Identificar las enfermedades transmitidas por los alimentos (ETA), su prevención y los métodos de conservación de alimentos.',
       barajarPreguntas: false,
       preguntas: [
         {
@@ -78,7 +78,7 @@ export default {
         {
           id: 3,
           texto: 'Texto de la tercera pregunta 3',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
+          imagen: require('@/assets/curso/portada/banner-principal.png'),
           opciones: [
             { id: 'a', texto: 'Opción A', esCorrecta: false },
             { id: 'b', texto: 'Opción B', esCorrecta: false },
@@ -91,7 +91,7 @@ export default {
         {
           id: 4,
           texto: 'Texto de la cuarta pregunta 4',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
+          imagen: require('@/assets/curso/portada/banner-principal.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Opción A', esCorrecta: true },
@@ -105,7 +105,7 @@ export default {
         {
           id: 5,
           texto: 'Texto de la quinta pregunta 5',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
+          imagen: require('@/assets/curso/portada/banner-principal.png'),
           opciones: [
             { id: 'a', texto: 'Opción A', esCorrecta: false },
             { id: 'b', texto: 'Opción B', esCorrecta: true },
