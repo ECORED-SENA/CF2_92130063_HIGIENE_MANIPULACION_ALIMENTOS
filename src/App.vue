@@ -66,23 +66,38 @@ export default {
 .cont_decorativo:before
   content: ''
   position: absolute
-  width: 90%
+  width: 94%
   right: 3%
   height: 67%
   top: 18%
   bottom: 15%
-  background-color: #201144
+  background-color: #DCC366
   border-radius: 50px
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #12263F !important
 .banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
   color: #12263F !important
+.cont_puntos:before
+  content: "• • • • • •\A • • • • • •\A • • • • • •"
+  position: absolute
+  right: 0
+  top: 15px
+  height: 100%
+  right: 15px
+  letter-spacing: 4px
+  font-size: 20px
+  white-space: pre;
+  line-height: 18px
+.cont_puntos.cont_puntos__verde:before
+  color: #F3F9F4
+.cont_puntos.cont_puntos__salmon:before
+  color: #FEEDDA
 @media screen and (max-width: 992px)
   .banner-principal .tarjeta
     background-size: cover !important
   .cont_decorativo:before
-    height: 90%
-    top: 5%
-    bottom: 5%
+    height: 100%
+    top: 0
+    bottom: 0
     right: 6%
 </style>
