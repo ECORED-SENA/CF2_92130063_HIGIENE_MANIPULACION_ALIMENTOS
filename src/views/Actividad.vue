@@ -24,102 +24,329 @@ export default {
         {
           id: 1,
           texto:
-            'Cuáles son los tipos de explotación en los sistemas productivos avícolas:',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+            '¿Qué caracteriza a las enfermedades transmitidas por los alimentos (ETA)?',
+          imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: false,
-          opciones: [
-            { id: 'a', texto: 'Explotación intensiva', esCorrecta: false },
-            { id: 'b', texto: 'Explotación semi intensiva', esCorrecta: false },
-            {
-              id: 'c',
-              texto: 'Explotación extensiva o traspatio',
-              esCorrecta: false,
-            },
-            { id: 'd', texto: 'Todas la anteriores', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente ....',
-        },
-        {
-          id: 2,
-          texto:
-            'Se lanzan dos proyectiles desde el suelo con la misma velocidad inicial, pero uno se lanza horizontalmente y el otro se lanza formando un ángulo de 45 grados con la horizontal. Considerando la resistencia del aire despreciable, ¿cuáles de las siguientes afirmaciones son verdaderas?',
-          imagen: require('@/assets/componentes/pregunta_2.png'),
-          barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Ambos proyectiles alcanzarán la misma altura máxima.',
+              texto: 'Largos períodos de incubación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'El proyectil lanzado horizontalmente recorrerá una distancia horizontal mayor que el proyectil lanzado a 45 grados',
+              texto: 'Cortos períodos de incubación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Ausencia de síntomas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Recuperación en 24 horas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 2,
+          texto:
+            '¿Qué tipo de microorganismos se desarrollan en el tracto digestivo causando infecciones alimentarias?',
+          imagen: require('@/assets/actividad/pregunta_2.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Toxinas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Hongos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Microorganismos patógenos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Bacterias beneficiosas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 3,
+          texto:
+            '¿Cuál es una característica de los microorganismos patógenos?',
+          imagen: require('@/assets/actividad/pregunta_3.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Son visibles a simple vista.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Son beneficiosos para la salud.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La velocidad horizontal del proyectil lanzado a 45 grados será mayor que la velocidad horizontal del proyectil lanzado horizontalmente.',
+                'No pueden ser detectados en los alimentos a simple vista.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Se utilizan en la elaboración de yogurt.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 4,
+          texto:
+            '¿Cuál de los siguientes alimentos es más susceptible de contaminarse?',
+          imagen: require('@/assets/actividad/pregunta_4.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Pan.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Carne molida.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Frutas secas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Aceite de oliva.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 5,
+          texto:
+            '¿Cuál es el principal microorganismo responsable del botulismo?',
+          imagen: require('@/assets/actividad/pregunta_1.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Salmonella.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Escherichia Coli.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Staphylococcus aureus.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Clostridium botulinum.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 6,
+          texto:
+            '¿Qué método de conservación de alimentos utiliza temperaturas cercanas a 80 °C para destruir microorganismos?',
+          imagen: require('@/assets/actividad/pregunta_2.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Esterilización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Pasteurización.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Congelación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Desecación.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 7,
+          texto:
+            '¿Cuál es la temperatura de mayor peligro para la multiplicación de microorganismos en los alimentos?',
+          imagen: require('@/assets/actividad/pregunta_3.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Menos de 0 °C.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Entre 0 °C y 5 °C.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Entre 10 °C y 60 °C.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Más de 70 °C.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 8,
+          texto: '¿Qué enfermedad causa la Salmonella?',
+          imagen: require('@/assets/actividad/pregunta_4.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Botulismo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Listeriosis.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Salmonelosis.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Estafilococia.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 9,
+          texto:
+            '¿Qué bacteria es conocida por causar infecciones nosocomiales?',
+          imagen: require('@/assets/actividad/pregunta_1.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Escherichia Coli.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Staphylococcus aureus.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Salmonella.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Listeria monocytogenes.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 10,
+          texto:
+            '¿Qué práctica es importante para evitar la proliferación de bacterias en los alimentos?',
+          imagen: require('@/assets/actividad/pregunta_2.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Mantener alimentos crudos a temperatura ambiente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Recalentar alimentos varias veces.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Descongelar alimentos en el frigorífico o microondas.',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'La velocidad total del proyectil lanzado a 45 grados en el punto más alto de su trayectoria será la misma que la velocidad horizontal del proyectil lanzado horizontalmente en cualquier punto de su trayectoria.',
+                'Utilizar las mismas herramientas para alimentos crudos y cocidos.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Perfecto! Has seleccionado la respuesta correcta.',
-          mensaje_incorrecto: 'Esa no es la respuesta correcta. ¡Ánimo!',
-        },
-        {
-          id: 3,
-          texto: 'Texto de la tercera pregunta 3',
-          imagen: require('@/assets/curso/portada/banner-principal.png'),
-          opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: false },
-            { id: 'b', texto: 'Opción B', esCorrecta: false },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Muy bien! Esa es la respuesta correcta.',
-          mensaje_incorrecto: 'Respuesta incorrecta. ¡Inténtalo de nuevo!',
-        },
-        {
-          id: 4,
-          texto: 'Texto de la cuarta pregunta 4',
-          imagen: require('@/assets/curso/portada/banner-principal.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: true },
-            { id: 'b', texto: 'Opción B', esCorrecta: false },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente.',
-        },
-        {
-          id: 5,
-          texto: 'Texto de la quinta pregunta 5',
-          imagen: require('@/assets/curso/portada/banner-principal.png'),
-          opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: false },
-            { id: 'b', texto: 'Opción B', esCorrecta: true },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente.',
+          mensaje_correcto: '¡Muy bien! Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'La respuesta es incorrecta. Te sugerimos revisar nuevamente el componente formativo.',
         },
       ],
       mensaje_final_aprobado:
-        '¡Has completado el cuestionario exitosamente! Felicidades.',
+        '¡Excelente! Te felicito, has superado la actividad.',
       mensaje_final_reprobado:
-        'No has alcanzado la puntuación mínima para aprobar. Te animamos a intentarlo de nuevo.',
+        'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
   computed: {},
