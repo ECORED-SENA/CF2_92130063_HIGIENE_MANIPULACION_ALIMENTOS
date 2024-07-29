@@ -149,7 +149,7 @@ export default {
     {
       termino: 'Bacteria',
       significado:
-        'microorganismo unicelular, sin núcleo definido por una membrana. interviene en procesos como la fermentación y puede ser la causa de enfermedades como salmonelosis. ',
+        'microorganismo unicelular, sin núcleo definido por una membrana. Interviene en procesos como la fermentación y puede ser la causa de enfermedades como salmonelosis. ',
     },
     {
       termino: 'Calidad',
@@ -178,7 +178,8 @@ export default {
     },
     {
       termino: 'Inocuidad',
-      significado: 'alimentos libres de contaminación incapaz de hacer daño. ',
+      significado:
+        'alimentos libres de contaminación incapaces de hacer daño. ',
     },
     {
       termino: 'Incubación',
@@ -244,8 +245,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Beatriz Elena Marín Rodríguez',
+          cargo: 'Experta Tematática',
+          centro: 'Centro de Industria - Regional Tolima',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -254,23 +260,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -278,11 +274,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',

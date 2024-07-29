@@ -9,7 +9,7 @@
 
     .row
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-        p El tiempo máximo en el que un alimento puede ser conservado, manteniendo todas sus propiedades organolépticas, nutricionales y sanitarias, se denomina #[strong VIDA ÚTIL]. La conservación tiene como objetivo aumentar la vida útil de los alimentos utilizando uno o varios métodos.
+        p El tiempo máximo en el que un alimento puede ser conservado, manteniendo todas sus propiedades organolépticas, nutricionales y sanitarias, se denomina #[strong vida útil]. La conservación tiene como objetivo aumentar la vida útil de los alimentos utilizando uno o varios métodos.
         .p-4.mt-4(style="background-color:#FDDBB4;border-radius:10px;")
           .row
             .col-auto.d-none.d-md-block(style="place-self:center;")
@@ -161,7 +161,7 @@
           .h-100.p-3.cont_hover_1.text-center(style="background-color:#FDDBB4;border-radius:20px;")
             figure.m-auto.col-12.col-md-11.col-lg-12
               img(src="@/assets/curso/tema3/17.png")
-            p.mt-3.mb-0 #[strong Añadir conservantes:] Se puede añadir conservantes para conseguir aumentar la vida útil del alimento. Siempre y cuando, se cumpla con los requerimientos exigidos por la normatividad.
+            p.mt-3.mb-0 #[strong Añadir conservantes:] Se pueden añadir conservantes para conseguir aumentar la vida útil del alimento. Siempre y cuando, se cumpla con los requerimientos exigidos por la normatividad.
 
 
 

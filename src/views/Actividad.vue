@@ -164,17 +164,17 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Escherichia Coli.',
+              texto: '<em>Escherichia Coli.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Staphylococcus aureus.',
+              texto: '<em>Staphylococcus aureus.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Clostridium botulinum.',
+              texto: '<em>Clostridium botulinum.</em>',
               esCorrecta: true,
             },
           ],
@@ -286,12 +286,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Escherichia Coli.',
+              texto: '<em>Escherichia Coli.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Staphylococcus aureus.',
+              texto: '<em>Staphylococcus aureus.</em>',
               esCorrecta: true,
             },
             {
@@ -301,7 +301,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Listeria monocytogenes.',
+              texto: '<em>Listeria monocytogenes.</em>',
               esCorrecta: false,
             },
           ],

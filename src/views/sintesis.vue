@@ -8,7 +8,7 @@
       .row.justify-content-center
         .col-lg-10.mb-5
           figure(data-aos="zoom-in-up")
-            img(src="@/assets/curso/sintesis.svg", alt="alt")
+            img(src="@/assets/curso/sintesis.svg", alt="Síntesis del componente sobre las   enfermedades transmitidas por los alimentos, que detalla los microorganismos más frecuentes como Salmonella y Escherichia Coli, tipos de enfermedades (infección e intoxicación alimentaria), factores de proliferación (tiempo, agua, nutrientes, calor, acidez, oxígeno) y métodos de conservación de alimentos mediante frío y calor.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
