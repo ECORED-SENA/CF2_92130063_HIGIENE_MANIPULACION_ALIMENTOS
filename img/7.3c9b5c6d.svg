@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="Grupo_1098580" data-name="Grupo 1098580" transform="translate(-439.051 -1176.785)">
+    <path id="Trazado_824488" data-name="Trazado 824488" d="M45,0A45,45,0,1,1,0,45,45,45,0,0,1,45,0Z" transform="translate(439.051 1176.785)" fill="#fddbb4"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(451.586 1189.32)">
+      <g id="Layer_2_copy_12" data-name="Layer 2 copy 12">
+        <g id="_57" data-name="57">
+          <circle id="background" cx="32" cy="32" r="32" transform="translate(0.464 0.464)" fill="#869a8a"/>
+          <g id="_57-2" data-name="57" transform="translate(15.336 12.674)">
+            <path id="Trazado_874518" data-name="Trazado 874518" d="M207.25,337.66h12.357V340.9a6.179,6.179,0,1,1-12.357,0Z" transform="translate(-196.318 -307.538)" fill="#fb4d42"/>
+            <path id="Trazado_874519" data-name="Trazado 874519" d="M150.658,122.785h-.926V111.624a11.622,11.622,0,1,0-23.245,0v11.161h-.924a4.56,4.56,0,1,0,0,9.119h25.1a4.56,4.56,0,1,0,0-9.119Z" transform="translate(-121 -100)" fill="#fbc129"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
