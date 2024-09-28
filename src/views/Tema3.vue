@@ -83,7 +83,7 @@
           .row
             .col-lg-7.mb-4.mb-lg-0
               h5 UHT (Ultra Pasteurización)
-              p Es un sistema donde se aplica una alta temperatura por muy poco tiempo, pero el suficiente para eliminar todos los microorganismos y sus esporas, con el fin de hacer que el alimento se mantenga en buen estado por mucho más tiempo posible al pasar por un tratamiento térmico. Un ejemplo es la leche UHT, que se puede guardar fuera del frigorífico.
+              p Es un sistema donde se aplica una alta temperatura por muy poco tiempo, pero es suficiente para eliminar todos los microorganismos y sus esporas, con el fin de hacer que el alimento se mantenga en buen estado por mucho más tiempo posible al pasar por un tratamiento térmico. Un ejemplo es la leche UHT, que se puede guardar fuera del frigorífico.
             .col-lg-5
               figure.m-auto.col-10.col-md-8.col-lg-12
                 img(src='@/assets/curso/tema3/9.png')
@@ -156,12 +156,12 @@
           .h-100.p-3.cont_hover_1.text-center(style="background-color:#FDDBB4;border-radius:20px;")
             figure.m-auto.col-12.col-md-11.col-lg-12
               img(src="@/assets/curso/tema3/16.png")
-            p.mt-3.mb-0 #[strong Aderezado:] Consiste en someter a los alimentos a la acción de vinagre, puede añadirse también sal y otros condimentos. Con este sistema el alimento se vuelve más ácido, siendo un medio poco apropiado para la multiplicación de bacterias.
+            p.mt-3.mb-0 #[strong Aderezado:] consiste en someter a los alimentos a la acción de vinagre, puede añadirse también sal y otros condimentos. Con este sistema el alimento se vuelve más ácido, siendo un medio poco apropiado para la multiplicación de bacterias.
         .col-lg.mb-4.mb-lg-0.col-md-8(data-aos="zoom-in")
           .h-100.p-3.cont_hover_1.text-center(style="background-color:#FDDBB4;border-radius:20px;")
             figure.m-auto.col-12.col-md-11.col-lg-12
               img(src="@/assets/curso/tema3/17.png")
-            p.mt-3.mb-0 #[strong Añadir conservantes:] Se pueden añadir conservantes para conseguir aumentar la vida útil del alimento. Siempre y cuando, se cumpla con los requerimientos exigidos por la normatividad.
+            p.mt-3.mb-0 #[strong Añadir conservantes:] se pueden añadir conservantes para conseguir aumentar la vida útil del alimento. Siempre y cuando, se cumpla con los requerimientos exigidos por la normatividad.
 
 
 

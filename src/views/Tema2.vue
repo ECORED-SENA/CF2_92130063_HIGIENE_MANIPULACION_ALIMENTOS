@@ -99,7 +99,7 @@
               figure
                 img(src="@/assets/curso/tema2/7.svg")
             .col(style="place-self:center;")
-              p.mb-0 Por esta razón, hay que tratar de mantener la calidad e inocuidad de los alimentos que se consumen, recuerde que además de atractivo y agradable, un alimento debe ser sano; por lo general no es necesario que el alimento se encuentre alterado para ser vehículo de una enfermedad.
+              p.mb-0 Por esta razón, hay que tratar de mantener la calidad e inocuidad de los alimentos que se consumen, recuerde que además de atractivo y agradable, un alimento debe ser sano; por lo general, no es necesario que el alimento se encuentre alterado para ser vehículo de una enfermedad.
     
     .cont_decorativo.mb-4.mt-4(data-aos="fade-right")
       .row

@@ -248,7 +248,7 @@
           tr
             td.p-4 #[em Salmonella]
             td.p-4 Salmonelosis: fiebre alta, dolor abdominal, dolor de cabeza y diarrea.
-            td.p-4 Ingestión humana y animal
+            td.p-4 Ingestión humana y animal.
             td.p-4 Cocinar adecuadamente los alimentos, mantener higiene y refrigeración de alimentos, lavar manos y utensilios. Evitar el consumo de alimentos crudos.
           tr
             td.p-4 #[em Staphylococcus aureus]
@@ -258,7 +258,7 @@
           tr
             td.p-4 #[em Clostridium Botulinum] 
             td.p-4 Da al irme: vómitos, visión borrosa, parálisis. Muerte. 
-            td.p-4 Polvo, tierra. Agua con poca cantidad de oxígeno 
+            td.p-4 Polvo, tierra. Agua con poca cantidad de oxígeno. 
             td.p-4 Cocinar bien los alimentos enlatados, especialmente aquellos sin oxígeno. No consumir alimentos con latas abolladas o dañadas. 
           tr
             td.p-4 #[em Listeria monocytogenes]
