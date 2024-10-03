@@ -100,7 +100,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Enfermedades Transmitidas por los Alimentos ',
+      tema: 'Enfermedades Transmitidas por los Alimentos. ',
       referencia:
         'González Flores, T. (2006). Enfermedades transmitidas por alimentos y PCR: prevención y diagnóstico: ( ed.). Red Salud Pública de México.  ',
       tipo: 'Artículo',
@@ -108,7 +108,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/22197  ',
     },
     {
-      tema: 'Enfermedades Transmitidas por los Alimentos ',
+      tema: 'Enfermedades Transmitidas por los Alimentos. ',
       referencia:
         'U.S. Food and Drug Administration  (2023). Cómo la FDA rastrea brotes de enfermedades. [Archivo de video] Youtube. transmitidas por alimentos.',
       tipo: 'Video',
@@ -116,21 +116,21 @@ export default {
         'https://www.youtube.com/watch?v=nacue2_hNTw&ab_channel=U.S.FoodandDrugAdministration ',
     },
     {
-      tema: 'La manipulación de alimentos ',
+      tema: 'La manipulación de alimentos. ',
       referencia:
         'Alimentos Cloud (s.f.). Manipulación segura de alimentos. Curso de Manipulador de Alimentos. [Podcast]. YouTube. ',
       tipo: 'Podcast',
       link: 'https://music.youtube.com/watch?v=6FFMBqzVw30&feature=shared ',
     },
     {
-      tema: 'La manipulación de alimentos ',
+      tema: 'La manipulación de alimentos. ',
       referencia:
         'ESHE (2020). Módulo sobre manipulación de alimentos básica común. [Archivo de video] Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/rk9DvIn8zVs?feature=shared  ',
     },
     {
-      tema: 'Conservación de alimentos ',
+      tema: 'Conservación de alimentos. ',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). <em>Guía de inocuidad de alimentos en establecimientos de almacenamiento</em>.',
       tipo: 'Guía',
@@ -138,7 +138,7 @@ export default {
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SNA/Guia-inocuidad-alimentos-establecimientos-almacenamiento.pdf ',
     },
     {
-      tema: 'Conservación de alimentos ',
+      tema: 'Conservación de alimentos. ',
       referencia:
         'TEDx Talks (2021). ¿Cómo conservar los alimentos y no morir en el intento? | Maitane Alonso | TEDxUDeusto ',
       tipo: 'Video',
