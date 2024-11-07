@@ -209,8 +209,6 @@ export default {
     {
       referencia:
         'Díaz Torres, R. (2009). <em>Conservación de los alimentos:</em> ( ed.). Editorial Félix Varela.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/71247',
     },
     {
       referencia:
