@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_1099656" data-name="Grupo 1099656" transform="translate(-285 -599)">
+    <g id="Elipse_11505" data-name="Elipse 11505" transform="translate(285 599)" fill="#f8fbf9" stroke="#869a8a" stroke-width="5">
+      <circle cx="42.5" cy="42.5" r="42.5" stroke="none"/>
+      <circle cx="42.5" cy="42.5" r="40" fill="none"/>
+    </g>
+    <g id="Grupo_1099659" data-name="Grupo 1099659" transform="translate(308.352 622.352)">
+      <circle id="Elipse_11676" data-name="Elipse 11676" cx="12.5" cy="12.5" r="12.5" transform="translate(1.648 12.648)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Trazado_874366" data-name="Trazado 874366" d="M38.858,22.968A10.589,10.589,0,1,0,26.366,10.457" transform="translate(-10.032 -0.002)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Trazado_874367" data-name="Trazado 874367" d="M32.985,11.288a7.709,7.709,0,0,1,2.7-2.588" transform="translate(-12.757 -2.759)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Elipse_11677" data-name="Elipse 11677" cx="4.5" cy="4.5" r="4.5" transform="translate(1.648 1.648)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Elipse_11678" data-name="Elipse 11678" cx="4" cy="4" r="4" transform="translate(29.648 29.648)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Trazado_874368" data-name="Trazado 874368" d="M21.059,39.236a3.53,3.53,0,0,1-7.059,0V34.53a3.53,3.53,0,0,1,7.059,0Z" transform="translate(-4.941 -11.94)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Trazado_874369" data-name="Trazado 874369" d="M30,46.177a1.177,1.177,0,1,1,2.353,0,1.124,1.124,0,0,1-.329.806l.005.005L30,49.118h2.353" transform="translate(-11.528 -17.704)" fill="none" stroke="#5f6e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
