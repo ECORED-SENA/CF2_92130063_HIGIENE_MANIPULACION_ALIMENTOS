@@ -102,14 +102,6 @@ export default {
     {
       tema: 'Enfermedades Transmitidas por los Alimentos. ',
       referencia:
-        'González Flores, T. (2006). Enfermedades transmitidas por alimentos y PCR: prevención y diagnóstico: ( ed.). Red Salud Pública de México.  ',
-      tipo: 'Artículo',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/22197  ',
-    },
-    {
-      tema: 'Enfermedades Transmitidas por los Alimentos. ',
-      referencia:
         'U.S. Food and Drug Administration  (2023). Cómo la FDA rastrea brotes de enfermedades. [Archivo de video] Youtube. transmitidas por alimentos.',
       tipo: 'Video',
       link:
